@@ -11,6 +11,10 @@
 
 > *"I built this because I saw mental health providers drowning in administrative work while patients waited weeks for care. The paperwork was literally preventing people from getting help."* — Lead Engineer
 
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/08521862-01ea-4a81-90e9-3f8df4340f6a" />
+
+
 ---
 
 ## 📋 Table of Contents
@@ -500,19 +504,11 @@ I'm not just looking for a job—I'm looking for a team that cares about buildin
 
 <p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anandsundar96)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anandsundar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandsundar96@gmail.com)
 
 </p>
-
-### What I'm Looking For
-
-- **Remote-first** or hybrid roles
-- **Healthcare AI** or **mental health technology** (personal passion)
-- **Senior Engineer**, **Staff Engineer**, or **Principal Architect** roles
-- Teams that value **security-first thinking** and **compliance by design**
-- Organizations that believe **great software helps people**
 
 ---
 
